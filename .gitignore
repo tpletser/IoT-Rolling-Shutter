@@ -31,5 +31,5 @@
 *.out
 *.app
 
-# Added by me : to store SSID and PASSWORD
-*.json
+# Added by me :not taking the code to not leak password and wifi
+*.ino
